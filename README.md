@@ -2,7 +2,7 @@
   <img height="100px" src="./logo.png" center />
 </p>
 
-# [Bitwarden](https://github.com/bitwarden/server)
+# [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 Bitwarden 是一款自由且开源的密码管理服务，用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。Bitwarden 平台提供有多种客户端应用程序，包括网页用户界面、桌面应用，浏览器扩展、移动应用以及命令行界面。
 
@@ -18,7 +18,7 @@ SQLite 部署（文件存储）[![](https://main.qcloudimg.com/raw/67f5a389f1ac6
 
 - SIGNUPS_ALLOWED： 是否允许注册
 
-更多配置参考：https://github.com/dani-garcia/bitwarden_rs/wiki
+更多配置参考：https://github.com/dani-garcia/vaultwarden/wiki
 
 ### 依赖
 
